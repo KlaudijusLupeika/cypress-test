@@ -1,0 +1,19 @@
+{
+  "name": "ancient-gaming",
+  "version": "1.0.0",
+  "description": "Cypress test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Klaudijus L",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.14.0",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
+}
